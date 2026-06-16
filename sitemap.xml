@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://agniclublogin.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://agniclublogin.app/about.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/features.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/community.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/responsible-gaming.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/faq.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/contact.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/privacy-policy.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/terms-conditions.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://agniclublogin.app/sitemap.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/about</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/features</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/community</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/responsible-gaming</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/faq</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/contact</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/privacy-policy</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/terms-conditions</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/sitemap</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
