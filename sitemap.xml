@@ -9,5 +9,7 @@
   <url><loc>https://agniclublogin.app/contact</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://agniclublogin.app/privacy-policy</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://agniclublogin.app/terms-conditions</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/login</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://agniclublogin.app/Register</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://agniclublogin.app/sitemap</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
